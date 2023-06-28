@@ -22,3 +22,5 @@ The page was styled using Bulma CSS and Normalize CSS frameworks. Separate JS fi
 Due to the departure of a group member certain features were not able to be implemented but the page currently pulls from the APIs and displays results in a list with results being saved in local storage. 
 
 Potential future enhancements include allowing the user to download saved lists in a format of their choosing, more polished UI (sortable JQuery list?), and including more APIs for the user to call from.
+
+Deployed site - https://ji-yoh.github.io/deploy-tier-ranker/
